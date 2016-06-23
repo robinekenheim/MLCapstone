@@ -1,4 +1,3 @@
-# Capstone
-Udacity project for Machine Learning Engineer Nanodegree
+# Project 5: Capstone
 
-In this capstone project, you will leverage what you’ve learned throughout the Nanodegree program to solve a problem of your choice by applying machine learning algorithms and techniques. You will first define the problem you want to solve and investigate potential solutions and performance metrics. Next, you will analyze the problem through visualizations and data exploration to have a better understanding of what algorithms and features are appropriate for solving it.
+The Capstone Project for the Machine Learning Engineer Nanodegree does not have any requirements for code, libraries, or datasets. You are free to choose your project as you wish! For students who are unable to construct a capstone project on their own imagination, a pre-built project has been provided in `robot_motion_planning`.
